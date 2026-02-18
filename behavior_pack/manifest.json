@@ -3,7 +3,7 @@
         "header": {
                 "name": "Vampire Craft - Behavior Pack",
                 "description": "Lógica, scripts e comportamentos da versão atualizada do Vampire Craft.",
-                "uuid": "b3626245-2f95-46f3-8b77-cfc2debf3886",
+                "uuid": "20f3dad9-dee8-4fd0-8ed8-4bcf91ebbc41",
                 "version": [
                         2,
                         0,
@@ -19,7 +19,7 @@
                 {
                         "description": "Dados de comportamento",
                         "type": "data",
-                        "uuid": "f1234567-89ab-cdef-0123-456789abcdef",
+                        "uuid": "9966c764-d231-45c2-a357-401ea60917f6",
                         "version": [
                                 2,
                                 0,
@@ -29,7 +29,7 @@
                 {
                         "description": "Lógica em script",
                         "type": "script",
-                        "uuid": "e08d5b8e-e26b-4ef1-a1cf-b8de09eb3f32",
+                        "uuid": "9010053f-2c49-4ad5-8775-c3a0400c1930",
                         "version": [
                                 2,
                                 0,

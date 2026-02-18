@@ -3,7 +3,7 @@
         "header": {
                 "name": "Vampire Craft - Resource Pack",
                 "description": "Recursos visuais e de áudio da versão atualizada do Vampire Craft.",
-                "uuid": "d9422df5-91f8-47bc-ae8b-96dcd37d2f95",
+                "uuid": "f63eda32-0e01-4413-9c5c-138f1467b38f",
                 "version": [
                         2,
                         0,
@@ -19,17 +19,7 @@
                 {
                         "description": "Recursos base",
                         "type": "resources",
-                        "uuid": "61d31976-a0af-40a2-aa90-b0c4186dfc92",
-                        "version": [
-                                2,
-                                0,
-                                0
-                        ]
-                }
-        ],
-        "dependencies": [
-                {
-                        "uuid": "b3626245-2f95-46f3-8b77-cfc2debf3886",
+                        "uuid": "f2d92ca9-43b0-403a-9139-2fdca3d1504d",
                         "version": [
                                 2,
                                 0,
