@@ -1,0 +1,21 @@
+{
+	"format_version": "1.19.50",
+	"minecraft:block": {
+		"description": {
+			"identifier": "sunrise:moon_stone_ore_block",
+			"menu_category": {
+				"category": "nature"
+			}
+		},
+		"components": {
+			"minecraft:destructible_by_mining": {
+				"seconds_to_destroy": 1
+			},
+			"minecraft:destructible_by_explosion": {
+				"explosion_resistance": 1
+			},
+			"minecraft:loot": "loot_tables/moon_stone_ore.json",
+			"minecraft:map_color": "#ffffff"
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"resource_pack_name": "Vampire",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"sunrise_witcher_grimoire": {"textures": "textures/items/witcher_grimoire"},
+		"sunrise_vampirism_cure": {"textures": "textures/items/vampirism_cure"},
+		"sunrise_lycanthropy_cure": {"textures": "textures/items/lycanthropy_cure"},
+		"sunrise_werewolf_claws": {"textures": "textures/items/werewolf_claws"},
+		"sunrise_vampire_tooth": {"textures": "textures/items/vampire_tooth"},
+		"sunrise_werewolf_fang": {"textures": "textures/items/werewolf_fang"},
+		"sunrise_vampire_amulet": {"textures": "textures/items/vampire_amulet"},
+		"sunrise_vampire_dagger": {"textures": "textures/items/vampire_dagger"}
+	}
+}

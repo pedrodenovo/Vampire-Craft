@@ -1,0 +1,18 @@
+{
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"sunrise:moon_stone_ore_block": {
+		"sound": "stone",
+		"textures": "sunrise_moon_stone_ore_block"
+	},
+	"sunrise:sun_stone_ore_block": {
+		"sound": "stone",
+		"textures": "sunrise_sun_stone_ore_block"
+	},
+	"sunrise:blood_altar": {
+		"sound": "stone"
+	}
+}

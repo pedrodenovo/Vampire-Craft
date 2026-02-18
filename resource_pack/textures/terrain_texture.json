@@ -1,0 +1,29 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "Vampire Craft",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		"sunrise_moon_stone_ore_block": {
+			"textures": "textures/blocks/moon_stone"
+		},
+		"sunrise_sun_stone_ore_block": {
+			"textures": "textures/blocks/sun_ore"
+		},
+		"sunrise_blood_altar": {
+			"textures": "textures/blocks/altar_sangue"
+		},
+		"sunrise_garlic_block": {
+			"textures": "textures/blocks/add_alho_stage_0"
+		},
+		"sunrise_garlic_block1": {
+			"textures": "textures/blocks/add_alho_stage_1"
+		},
+		"sunrise_garlic_block2": {
+			"textures": "textures/blocks/add_alho_stage_2"
+		},
+		"sunrise_garlic_block3": {
+			"textures": "textures/blocks/add_alho_stage_3"
+		}
+	}
+}
