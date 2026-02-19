@@ -1,51 +1,71 @@
 {
-        "format_version": 2,
-        "header": {
-                "name": "Vampire Craft - Behavior Pack",
-                "description": "Lógica, scripts e comportamentos da versão atualizada do Vampire Craft.",
-                "uuid": "20f3dad9-dee8-4fd0-8ed8-4bcf91ebbc41",
-                "version": [
-                        2,
-                        0,
-                        0
-                ],
-                "min_engine_version": [
-                        1,
-                        21,
-                        0
-                ]
-        },
-        "modules": [
-                {
-                        "description": "Dados de comportamento",
-                        "type": "data",
-                        "uuid": "9966c764-d231-45c2-a357-401ea60917f6",
-                        "version": [
-                                2,
-                                0,
-                                0
-                        ]
-                },
-                {
-                        "description": "Lógica em script",
-                        "type": "script",
-                        "uuid": "9010053f-2c49-4ad5-8775-c3a0400c1930",
-                        "version": [
-                                2,
-                                0,
-                                0
-                        ],
-                        "entry": "scripts/main.js"
-                }
-        ],
-        "dependencies": [
-                {
-                        "module_name": "@minecraft/server",
-                        "version": "2.3.0"
-                },
-                {
-                        "module_name": "@minecraft/server-ui",
-                        "version": "2.0.0"
-                }
-        ]
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"@pedro_denovo"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.54"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "Vampire Craft",
+		"description": "Viva uma aventura estilo RPG com o novo Vampire Craft!",
+		"min_engine_version": [
+			1,
+			21,
+			120
+		],
+		"uuid": "b7765b0d-9e8f-466b-aa6d-7231d214a1ef",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "fc5cbce2-87df-462b-9d82-3fd3750e59e0",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"type": "script",
+			"language": "javascript",
+			"uuid": "0e102610-2cec-46c6-936d-e05762e59d53",
+			"entry": "scripts/main.js",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "25a4416c-8230-4aaf-b872-1393f9cca2c1",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"module_name": "@minecraft/server",
+			"version": "2.3.0"
+		},
+		{
+			"module_name": "@minecraft/server-ui",
+			"version": "2.0.0"
+		}
+	]
 }
