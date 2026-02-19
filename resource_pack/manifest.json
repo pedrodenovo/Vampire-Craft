@@ -1,30 +1,52 @@
 {
-        "format_version": 2,
-        "header": {
-                "name": "Vampire Craft - Resource Pack",
-                "description": "Recursos visuais e de áudio da versão atualizada do Vampire Craft.",
-                "uuid": "f63eda32-0e01-4413-9c5c-138f1467b38f",
-                "version": [
-                        2,
-                        0,
-                        0
-                ],
-                "min_engine_version": [
-                        1,
-                        21,
-                        0
-                ]
-        },
-        "modules": [
-                {
-                        "description": "Recursos base",
-                        "type": "resources",
-                        "uuid": "f2d92ca9-43b0-403a-9139-2fdca3d1504d",
-                        "version": [
-                                2,
-                                0,
-                                0
-                        ]
-                }
-        ]
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"@pedro_denovo"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.54"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "Vampire Craft",
+		"description": "Viva uma aventura estilo RPG com o novo Vampire Craft!",
+		"min_engine_version": [
+			1,
+			21,
+			120
+		],
+		"uuid": "25a4416c-8230-4aaf-b872-1393f9cca2c1",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "1e96e997-269b-48cf-b8ff-cf1f084f9ed0",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "b7765b0d-9e8f-466b-aa6d-7231d214a1ef",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
 }
